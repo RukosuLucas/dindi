@@ -1,6 +1,6 @@
-# Publica só a pasta public/ (o site). SQL e README ficam fora do ar.
+# Versão sem pastas: o site é publicado a partir da raiz do repositório.
 [build]
-  publish = "public"
+  publish = "."
 
 [[headers]]
   for = "/*"
