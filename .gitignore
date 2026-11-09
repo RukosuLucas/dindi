@@ -1,0 +1,6 @@
+# Nunca suba dados pessoais ou chaves secretas
+private/
+*.env
+.env*
+*backup*.json
+*importar_planilha*.sql
